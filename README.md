@@ -1,9 +1,9 @@
 # webpack4.x + vue2.x
 
-本菜鸡主要是练习一下webpack配置前端工程化的流程，熟悉下webpack的配置，（vuecli一把梭真香）
+本菜鸡主要是练习一下webpack配置前端工程化的流程，熟悉下webpack的配置
 
-遇到挺烦的问题就是工具版本的不兼容需要指定版本，有些在webpack-contrib上看到已经drop webpack4了似乎<br>
-so update before check CHANGELOG!
+
+
 
 大概涉及到：<br>
 <li>模块化的语法：CommonJS规范，ES6的import和动态import()<br>
